@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "desafioreactnative",
+    "slug": "desafioreactnative",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
